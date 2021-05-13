@@ -1,0 +1,2 @@
+# QtCalculator
+Tournament calculator
