@@ -47,8 +47,8 @@ void Match::set_first_team(QString team) {
 }
 
 void Match::set_second_team(QString team) {
-    team_2 = team;
-}
+        team_2 = team;
+    }
 
 Match& Match::operator=(const Match &t) {
     if (&t == this) {
