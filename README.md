@@ -4,6 +4,7 @@
 
 # Видео демонстрация
 [![Демонстрация](https://i.ytimg.com/vi/5XL6KyEjlBo/maxresdefault.jpg)](https://www.youtube.com/watch?v=5XL6KyEjlBo)
+Для просмотра нажмите на превью выше
 
 # Что использовалось
 Для разработки использовалась IDE [Qt](https://www.qt.io/) и классы, определенные в данной библиотеке.
